@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CompuSkill-New\\New_Compuskill\\webapi\\webapi.csproj": {}
+    "D:\\CompuSkill-New\\CompuSkill\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "D:\\CompuSkill-New\\New_Compuskill\\webapi\\webapi.csproj": {
+    "D:\\CompuSkill-New\\CompuSkill\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CompuSkill-New\\New_Compuskill\\webapi\\webapi.csproj",
+        "projectUniqueName": "D:\\CompuSkill-New\\CompuSkill\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "D:\\CompuSkill-New\\New_Compuskill\\webapi\\webapi.csproj",
+        "projectPath": "D:\\CompuSkill-New\\CompuSkill\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\CompuSkill-New\\New_Compuskill\\webapi\\obj\\",
+        "outputPath": "D:\\CompuSkill-New\\CompuSkill\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
